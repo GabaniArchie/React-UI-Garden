@@ -6,8 +6,8 @@
 Open a terminal and clone the repository:
 
 ```bash
-git clone https://github.com/CJ20170805/React-UI-Garden.git
-cd cao_jiale_ui_garden
+git clone https://github.com/GabaniArchie/React-UI-Garden.git
+cd archie_gabani_ui_garden
 ```
 
 ### Step 2: Build the Docker Image
@@ -22,7 +22,7 @@ cd cao_jiale_ui_garden
 ### Step 3: Run the Docker Container
 
   ```bash
-  docker run -d -p 8083:8083 --name cao_jiale_coding_assignment12 cao_jiale_coding_assignment12
+  docker run -d -p 8083:8083 --name archie_gabani_ui_garden_assignment12 archie_gabani_ui_garden_assignment12
   ```
 
 ### Step 4: Access the Application
